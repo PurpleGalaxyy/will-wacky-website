@@ -257,7 +257,7 @@ body h6 {
 body h1 {
     font-size: 1.4em;
     margin-bottom: 1em;
-    color: #ffffff;
+    color: 240, 220, 38;
 }
 
 body p {
@@ -340,7 +340,7 @@ body #mainWrapper main::after {
 --------------------------------------------------------------*/
 
 body {
-    background: rgb (194, 0, 126);
+    background: rgb (194, 0, 126);f
 }
 
 body main {
